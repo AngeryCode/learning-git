@@ -5,5 +5,5 @@ git tracks changes.
 git some changes.
 creating a new brach is quick & simple.
 creating a new brach is quick and Simple.
-git is free software.
+git is a  free software.
 
