@@ -4,4 +4,5 @@ git has a mutable index called stage.
 git tracks changes.
 git some changes.
 creating a new brach is quick & simple.
+git is free software.
 
